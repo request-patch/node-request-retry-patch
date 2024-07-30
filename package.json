@@ -1,5 +1,5 @@
 {
-  "name": "requestretry-c",
+  "name": "requestsretry",
   "description": "request-retry wrap nodejs request to retry http(s) requests in case of error",
   "version": "17.1.0",
   "author": {

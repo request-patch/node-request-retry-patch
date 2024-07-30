@@ -47,7 +47,7 @@
     "lodash": "^4.17.15"
   },
   "peerDependencies": {
-    "request": "2.*.*"
+    "@cypress/request": "^3.0.1"
   },
   "devDependencies": {
     "bluebird": "^3.5.1",
